@@ -23,7 +23,7 @@ const skillCategories: SkillCategory[] = [
   {
     title: 'Backend',
     icon: <Storage />,
-    skills: ['Node.js', 'Ruby on Rails', 'Flask', 'ExpressJS', 'Prisma',],
+    skills: ['Node.js', 'Ruby on Rails', 'Flask', 'ExpressJS', 'Prisma', 'Pyramid'],
   },
   {
     title: 'DevOps & Tools',

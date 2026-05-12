@@ -18,16 +18,23 @@ interface Experience {
 
 const experiences: Experience[] = [
   {
+    company: 'Qualio',
+    role: 'Software Engineer',
+    period: '2026 - Present',
+    description:
+      'Building AI-powered quality and compliance software for healthcare and life sciences companies using React, Python, PostgreSQL, and AWS',
+  },
+  {
     company: 'Kargo',
     role: 'Software Engineer',
-    period: '2021 - Present',
+    period: '2021 - 2026',
     description:
       'Building software to help advertisers scale full-funnel performance marketing campaigns across social platforms. Working as a full-stack engineer with React, Ruby on Rails, PostgreSQL, and AWS.',
   },
   {
     company: 'ReliaQuest',
     role: 'Security Analyst',
-    period: '2020 - 2021',
+    period: '2020 - 2026',
     description:
       'Worked in a Security Operations Center investigating and analysing security incidents across diverse customer environments. Utilized various SIEM and EDR tools including Splunk, LogRhythm, and CrowdStrike.',
   },

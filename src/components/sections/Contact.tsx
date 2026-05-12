@@ -14,7 +14,7 @@ const socialLinks = [
   {
     name: 'GitHub',
     icon: <GitHub />,
-    url: 'https://github.com/luke_foxed',
+    url: 'https://github.com/luke-foxed',
   },
   {
     name: 'LinkedIn',
