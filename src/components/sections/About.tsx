@@ -34,7 +34,7 @@ const experiences: Experience[] = [
   {
     company: 'ReliaQuest',
     role: 'Security Analyst',
-    period: '2020 - 2026',
+    period: '2020 - 2021',
     description:
       'Worked in a Security Operations Center investigating and analysing security incidents across diverse customer environments. Utilized various SIEM and EDR tools including Splunk, LogRhythm, and CrowdStrike.',
   },
